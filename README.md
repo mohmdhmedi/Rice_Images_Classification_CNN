@@ -1,12 +1,12 @@
-CNN Projects
+Rice Images CNN Projects
 
 Welcome to the CNN Projects repository! This repository contains various Convolutional Neural Network (CNN) projects developed for image classification tasks. Each project is designed to demonstrate different techniques and approaches using CNNs for different datasets.
 Table of Contents
 
     Introduction
     Projects
-        Rice Classification
-        Project 2
+        Rice Classification WIth tensorflow and keras
+        Rice Classification WIth Pytorch
         Project 3
     Installation
     Usage
