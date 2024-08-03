@@ -7,7 +7,6 @@ Table of Contents
     Projects
         Rice Classification WIth tensorflow and keras
         Rice Classification WIth Pytorch
-        Project 3
     Installation
     Usage
     Contributing
@@ -28,17 +27,11 @@ Rice Classification
 
 Project 2
 
-    Description: Description of the second project.
-    Dataset: Details about the dataset used.
-    Techniques Used: Techniques and methods applied.
-    Framework: Framework and libraries used.
+    Description: The same dataset with other model. I have used Pytorch as the second approach.
+    Dataset: The dataset is divided into training, validation, and test sets.
+    Techniques Used: Data augmentation, CNN architecture, early stopping, learning rate reduction.
+    Framework: Pytorch
 
-Project 3
-
-    Description: Description of the third project.
-    Dataset: Details about the dataset used.
-    Techniques Used: Techniques and methods applied.
-    Framework: Framework and libraries used.
 
 Installation
 
@@ -48,8 +41,8 @@ To run the projects in this repository, you need to have Python and the required
 
 
 
-git clone https://github.com/mohmdhmedi//CNN-Projects.git
-cd CNN-Projects
+git clone https://github.com/mohmdhmedi//Rice_Images_Classification_CNN.git
+cd Rice_Images_Classification_CNN
 
     Create a virtual environment:
 
