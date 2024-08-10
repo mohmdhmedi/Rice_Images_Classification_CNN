@@ -34,6 +34,7 @@ Convolutional Neural Networks (CNNs) are powerful tools for image recognition an
 - **Dataset:** The dataset is divided into training, validation, and test sets.
 - **Techniques Used:** Data augmentation, CNN architecture, early stopping, learning rate reduction.
 - **Framework:** PyTorch
+- **Kaggle Link:** [Click here to check the code](https://www.kaggle.com/code/mohmdhmedi/rice-images-cnn-pytorch)
 
 ## Installation
 
